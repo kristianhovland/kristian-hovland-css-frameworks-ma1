@@ -35,6 +35,7 @@ body {
   padding: 25px;
   padding-bottom: 45px;
   font-family: "Open Sans", sans-serif;
+  color: #463f3a;
 }
 
 .wrapper {
@@ -89,6 +90,7 @@ nav {
 a.navbar-brand {
   font-family: "Open Sans", sans-serif;
   font-size: 36px;
+  color: #262626;
 }
 
 .active {

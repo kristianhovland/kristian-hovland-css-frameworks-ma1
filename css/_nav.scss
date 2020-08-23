@@ -7,6 +7,7 @@ nav {
 a.navbar-brand {
   font-family: $primaryFont;
   font-size: 36px;
+  color: #262626;
 }
 
 .active {
@@ -16,5 +17,4 @@ a.navbar-brand {
 .nav-link {
   font-family: $secondaryFont;
   letter-spacing: 1px;
-  font-size: 18px;
 }
