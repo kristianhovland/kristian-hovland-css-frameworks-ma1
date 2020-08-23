@@ -1,0 +1,20 @@
+nav {
+  font-family: $primaryFont;
+  color: $detailsColor;
+  text-transform: uppercase;
+}
+
+a.navbar-brand {
+  font-family: $primaryFont;
+  font-size: 36px;
+}
+
+.active {
+  color: $detailsColor;
+}
+
+.nav-link {
+  font-family: $secondaryFont;
+  letter-spacing: 1px;
+  font-size: 18px;
+}
